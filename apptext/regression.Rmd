@@ -1,0 +1,30 @@
+---
+title: "Regression"
+author: "W. R. Buchanan"
+date: "September 29, 2014"
+output: html_document
+---
+
+__What is the trend line?__
+The trend line that you selected is a useful and concise way to summarize the 
+strength of a relationship between two variables.  For example, if you leave the 
+trend line on and look at Math Proficiency Points and RLA Proficiency Points, 
+you'll see that the line goes up.  This shows that as the school performed
+better in math, it also performed better in Reading/Language Arts.  
+
+__What's the area around the line mean?__
+The area around the line is called the "standard error."  If you remember watching 
+the news during election time, there are always polls showing that some percentage 
+of Americans think this or that.  Usually, there's a standard error somewhere on 
+the screen.  It probably looks something like "± 5%" which is another way of saying 
+that the results are accurate within a _margin of error_.  The standard error is 
+a way of showing how accurate the result of the trend line is.
+
+
+
+
+
+
+
+
+

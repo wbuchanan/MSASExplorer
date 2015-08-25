@@ -1,0 +1,48 @@
+colorFilters <- list("Grade Configuration/Scale" = "schgrtyp",
+                    "Total Points Quintile" = "schtotpts_q",
+                    "Grade w/ESEA Flexibility Waiver" = "schwaivedgrade",
+                    "Current DA Label" = "schdalabel",
+                    "Reading Proficiency Quintiles" = "schprorla_q",
+                    "Math Proficiency Quintiles" = "schpromth_q",
+                    "Science Proficiency Quintiles" = "schprosci_q",
+                    "US History Proficiency Quintiles" = "schprohis_q",
+                    "Reading Growth All Quintiles" = "schgrorla_q",
+                    "Math Growth All Quintiles" = "schgromth_q",
+                    "Reading Growth Low 25% Quintiles" = "schgrolrla_q",
+                    "Math Growth Low 25% Quintiles" = "schgrolmth_q",
+                    "Graduation Rate Quintile" = "schgrad_q",
+                    "Title I Indicator" = "title1",
+                    "Targetted Title I Indicator" = "targetedtitle1",
+                    "2012-13 DA Label" = "schdalabel1",
+                    "2012-13 Grade" = "schpriorgrade",
+                    "Met Reading AMOs" = "schoverallrla",
+                    "Met Math AMOs" = "schoverallmth",
+                    "Met Other AMOs" = "schoveralloth",
+                    "Met All AMOs" = "schmetallamos")
+
+barColorFilters <- list("Grade w/ESEA Flexibility Waiver" = "schwaivedgrade",
+    "Total Points Quintile" = "schtotpts_q",
+    "Grade Configuration/Scale" = "schgrtyp",
+    "Current DA Label" = "schdalabel",
+    "Reading Proficiency Quintiles" = "schprorla_q",
+    "Math Proficiency Quintiles" = "schpromth_q",
+    "Science Proficiency Quintiles" = "schprosci_q",
+    "US History Proficiency Quintiles" = "schprohis_q",
+    "Reading Growth All Quintiles" = "schgrorla_q",
+    "Math Growth All Quintiles" = "schgromth_q",
+    "Reading Growth Low 25% Quintiles" = "schgrolrla_q",
+    "Math Growth Low 25% Quintiles" = "schgrolmth_q",
+    "Graduation Rate Quintile" = "schgrad_q",
+    "Title I Indicator" = "title1",
+    "Targetted Title I Indicator" = "targetedtitle1",
+    "2012-13 DA Label" = "schdalabel1",
+    "2012-13 Grade" = "schpriorgrade",
+    "Met Reading AMOs" = "schoverallrla",
+    "Met Math AMOs" = "schoverallmth",
+    "Met Other AMOs" = "schoveralloth",
+    "Met All AMOs" = "schmetallamos")
+
+
+
+
+

@@ -1,0 +1,32 @@
+.background {
+  fill: #eeeeee;
+  pointer-events: none;
+}
+
+.mesh {
+  fill: none;
+  stroke: #000000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.tooltip {
+  background-color:rgba(255,255,255,0.65);
+  font: 15px sans-serif;
+  font-weight: bold;
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0.25, 0.25, 0.25, 0.45);
+  -moz-box-shadow: 4px 4px 10px rgba(0.25, 0.25, 0.25, 0.45);
+  box-shadow: 4px 4px 10px rgba(0.25, 0.25, 0.25, 0.45);
+  pointer-events: none;
+}
+
+
+.tooltip.hidden{
+	display: none;
+}

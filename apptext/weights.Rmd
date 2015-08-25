@@ -1,0 +1,23 @@
+---
+title: "Weights"
+author: "W. R. Buchanan"
+date: "September 29, 2014"
+output: html_document
+---
+    
+__Why did the size of the points change?__
+When you selected the "Size Points Based on # of Students" option, it told the 
+underlying program to make the width of each dot proportional to the total 
+number of students used to calculate each of the the component scores on the 
+graph.  
+
+__Why is this useful/helpful?__
+Different sized schools have distinct strengths.  Although very small schools 
+may not have the same capacity to offer a wide variety of courses to their 
+students, they offer a unique opportunity for educators to get to know their 
+students in a way that would not exist in a school two or three times the size.  
+It also provides another point of comparison that you can use to develop a deeper 
+understanding of the data.
+
+
+

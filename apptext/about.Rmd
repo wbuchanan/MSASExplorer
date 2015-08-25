@@ -1,0 +1,27 @@
+# 2014 Accountability Information
+The Mississippi Statewide Accountability System rates schools and school 
+districts with the letter grades A, B, C, D, and F. The 2013-14 school year is 
+the first year the state assigned letter grades using a new accountability model 
+that meets both state and federal reporting requirements.
+
+## Key differences in the new accountability model:
+* The new model emphasizes student growth, particularly the lowest performing 
+25% of students.
+* The previous system calculated student growth using a prediction equation. 
+Now, students meet growth if their scores improve from one proficiency level to 
+the next, or move sufficiently within the lower proficiency levels.
+* The previous system included a “completion index” for the 12th grade score, 
+which gave schools partial credit for GED completers and other types of 
+non-traditional diplomas. These students do not accumulate credit in the new 
+system, per state statute. The federally approved 4-year graduation rate is 
+now used.
+
+## Waiver Grades
+The 2013-14 year is considered a transitional year for letter grades because it 
+is the first academic year that schools were expected to fully implement 
+Mississippi’s college- and career-ready standards. Because of this transition, 
+the U.S. Department of Education granted Mississippi a one-year waiver from 
+school letter grades for the 2013-14 school year. The waiver allows a school to 
+retain the letter grade it received in the 2012-13 school year if the 2013-14 
+grade is lower as a result of assessment results.
+
